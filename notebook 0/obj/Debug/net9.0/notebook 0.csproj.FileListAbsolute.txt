@@ -1,0 +1,17 @@
+C:\Users\pisar\RiderProjects\notebook 0\notebook 0\bin\Debug\net9.0\notebook 0.exe
+C:\Users\pisar\RiderProjects\notebook 0\notebook 0\bin\Debug\net9.0\notebook 0.deps.json
+C:\Users\pisar\RiderProjects\notebook 0\notebook 0\bin\Debug\net9.0\notebook 0.runtimeconfig.json
+C:\Users\pisar\RiderProjects\notebook 0\notebook 0\bin\Debug\net9.0\notebook 0.dll
+C:\Users\pisar\RiderProjects\notebook 0\notebook 0\bin\Debug\net9.0\notebook 0.pdb
+C:\Users\pisar\RiderProjects\notebook 0\notebook 0\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\pisar\RiderProjects\notebook 0\notebook 0\obj\Debug\net9.0\notebook 0.csproj.AssemblyReference.cache
+C:\Users\pisar\RiderProjects\notebook 0\notebook 0\obj\Debug\net9.0\notebook 0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pisar\RiderProjects\notebook 0\notebook 0\obj\Debug\net9.0\notebook 0.AssemblyInfoInputs.cache
+C:\Users\pisar\RiderProjects\notebook 0\notebook 0\obj\Debug\net9.0\notebook 0.AssemblyInfo.cs
+C:\Users\pisar\RiderProjects\notebook 0\notebook 0\obj\Debug\net9.0\notebook 0.csproj.CoreCompileInputs.cache
+C:\Users\pisar\RiderProjects\notebook 0\notebook 0\obj\Debug\net9.0\notebook 0.csproj.Up2Date
+C:\Users\pisar\RiderProjects\notebook 0\notebook 0\obj\Debug\net9.0\notebook 0.dll
+C:\Users\pisar\RiderProjects\notebook 0\notebook 0\obj\Debug\net9.0\refint\notebook 0.dll
+C:\Users\pisar\RiderProjects\notebook 0\notebook 0\obj\Debug\net9.0\notebook 0.pdb
+C:\Users\pisar\RiderProjects\notebook 0\notebook 0\obj\Debug\net9.0\notebook 0.genruntimeconfig.cache
+C:\Users\pisar\RiderProjects\notebook 0\notebook 0\obj\Debug\net9.0\ref\notebook 0.dll
